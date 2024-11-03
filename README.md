@@ -20,11 +20,6 @@ I'm a passionate beginner web developer and designer who loves crafting visually
 - 🎨 I’m passionate about **design** and **creating user-friendly interfaces**.
 - 💼 My goal is to become a **front-end developer and web designer**.
 
-## 🌐 My Portfolio
-Check out my [portfolio website](https://yourwebsite.com) to see my work!
-
----
-
 Thank you for stopping by, and happy coding! 🚀
 
 
