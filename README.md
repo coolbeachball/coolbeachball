@@ -1,4 +1,4 @@
-# 👋 Hey, I'm BeachBall!
+# 👋 Hey, I'm CoolBeachBall!
 
 I'm a passionate beginner web developer and designer who loves crafting visually appealing and user-friendly websites. Here’s a bit about what I use to build the web:
 
