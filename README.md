@@ -10,6 +10,7 @@ I'm a passionate beginner web developer and designer who loves crafting visually
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60"/>
@@ -19,7 +20,7 @@ I'm a passionate beginner web developer and designer who loves crafting visually
 ---
 
 ## 💻 About Me
-- 🌱 I’m currently learning more about ⚛️**React**⚛️ and building projects.
+- 🌱 I’m currently learning **TypeScript** more about ⚛️**React**⚛️ and building projects.
 - 🎨 I’m passionate about **design** and **creating user-friendly interfaces**.
 - 💼 My goal is to become a **front-end developer and web designer**.
 
