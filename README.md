@@ -10,17 +10,18 @@ Welcome to my GitHub beach, where creativity surfs on waves of code. I’m CoolB
 
 I use these tools to ride the development waves:  
 - **Languages & Frameworks:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-  ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat&logo=sass&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" style="width: 50px; height: auto;" />  
 
 - **Favorite Tools:**  
-  ![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=flat&logo=brave&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![zsh](https://img.shields.io/badge/zsh-%231A1A1A.svg?style=flat&logo=gnubash&logoColor=white)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brave/brave-original.svg" alt="Brave Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" style="width: 50px; height: auto;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="zsh Logo" style="width: 50px; height: auto;" />  
+
 
 ---
 
