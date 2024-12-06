@@ -33,7 +33,7 @@ I use these tools to ride the development waves:
 ## 🌟 My Current Adventure  
 
 Here’s what I’m up to:  
-🏗 **Mastering React & TypeScript** – Building efficient and scalable apps.  
+🏗 **Mastering React, Tailwind & TypeScript** – Building efficient and scalable apps.  
 🌗 **Theming Magic** – Making websites switch seamlessly between light and dark modes.  
 📝 **To-Do List App** – Simplifying life with a cool task management tool.  
 
