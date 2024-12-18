@@ -20,13 +20,18 @@ I use these tools to ride the development waves:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" style="width: 50px; height: auto;" />
 </div>   
 
-- **Favorite Tools:**  
+- ** 🔨 Favorite Tools:**  
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Brave_Logo.png" alt="Brave Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="zsh Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" style="width: 50px; height: auto;" />
 </div>  
+
+-- ** 💻 Operating Systems:***
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS log" style="width: 50px; height: auto;" />
+</div>
 
 
 ---
