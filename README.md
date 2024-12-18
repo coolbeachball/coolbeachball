@@ -1,4 +1,4 @@
-# 🌊 CoolBeachBall  
+# 🏖 CoolBeachBall  
 
 **Hey there, fellow adventurer!** 👋  
 
