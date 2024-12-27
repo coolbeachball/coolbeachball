@@ -25,7 +25,7 @@ I use these tools to ride the development waves:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="zsh Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscapre-origina.svg" alt="Inkscape Logo" style="width: 50px; height: auto;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape Logo" style="width: 50px; height: auto;" />
 </div>  
 
 - ** 💻 Operating Systems:**
