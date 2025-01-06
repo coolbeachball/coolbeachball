@@ -9,7 +9,7 @@ Welcome to my GitHub beach, where creativity surfs on waves of code. I’m CoolB
 ## 🏄‍♂️ My Skills  
 
 I use these tools to ride the development waves:  
-- ** ⚙️ Languages & Frameworks:**  
+- **⚙️ Languages & Frameworks:**  
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" style="width: 50px; height: auto;" />
@@ -20,7 +20,7 @@ I use these tools to ride the development waves:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" style="width: 50px; height: auto;" />
 </div>   
 
-- ** 🔨 Favorite Tools:**  
+- **🔨 Favorite Tools:**  
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" style="width: 50px; height: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="zsh Logo" style="width: 50px; height: auto;" />
@@ -28,7 +28,7 @@ I use these tools to ride the development waves:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape Logo" style="width: 50px; height: auto;" />
 </div>  
 
-- ** 💻 Operating Systems:**
+- **💻 Operating Systems:**
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS log" style="width: 50px; height: auto;" />
 </div>
