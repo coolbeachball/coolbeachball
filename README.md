@@ -38,7 +38,7 @@ I use these tools to ride the development waves:
 ## 🌟 My Current Adventure  
 
 Here’s what I’m up to:  
-🏗 **Mastering React, Tailwind & TypeScript** – Building efficient and scalable apps.  
+🏗 **Mastering JavaScript, React, Tailwind & TypeScript** – Building efficient and scalable apps.  
 🌗 **Theming Magic** – Making websites switch seamlessly between light and dark modes.  
 📝 **To-Do List App** – Simplifying life with a cool task management tool.  
 
@@ -57,7 +57,10 @@ I believe websites should be bold, fun, and a joy to use. My goal? To make every
 
 ## 🌐 Hang Out With Me  
 
-🏄 **Portfolio:** Coming soon—stay tuned for the splash!
+🏄 **Portfolio:**
+- <a href="https://github.com/coolbeachball/CoolNeUI">CoolNeUI</a>: A simple and intuitive CSS framework that allows you to style websites fast. 
+- <a href="[https://github.com/coolbeachball/CoolNeUI](https://github.com/coolbeachball/TODO-List-App)">ToDo App</a>: a cool way to organize your tasks into small pieces. 
+- <a href="https://github.com/coolbeachball/The-Periodic-Table">Periodic Table</a>: one of the most fun way to learn a small information about each of the elements. 
 
 ---
 
