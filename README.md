@@ -59,7 +59,7 @@ I believe websites should be bold, fun, and a joy to use. My goal? To make every
 
 🏄 **Portfolio:**
 - <a href="https://github.com/coolbeachball/CoolNeUI">CoolNeUI</a>: A simple and intuitive CSS framework that allows you to style websites fast. 
-- <a href="[https://github.com/coolbeachball/CoolNeUI](https://github.com/coolbeachball/TODO-List-App)">ToDo App</a>: a cool way to organize your tasks into small pieces. 
+- <a href="https://github.com/coolbeachball/CoolNeUI](https://github.com/coolbeachball/TODO-List-App">ToDo App</a>: a cool way to organize your tasks into small pieces. 
 - <a href="https://github.com/coolbeachball/The-Periodic-Table">Periodic Table</a>: one of the most fun way to learn a small information about each of the elements. 
 
 ---
