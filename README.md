@@ -1,75 +1,122 @@
-# 🏖 CoolBeachBall  
+# 🌊 CoolBeachBall
 
-**Hey there, fellow adventurer!** 👋  
-
-Welcome to my GitHub beach, where creativity surfs on waves of code. I’m CoolBeachBall—a front-end developer and designer student who’s all about making the web more awesome, one project at a time.  
+Welcome to the **official GitHub profile** of **CoolBeachBall** — a creative, self-taught web developer on a mission to make the web a better place, one project at a time.
 
 ---
 
-## 🏄‍♂️ My Skills  
+## 🌟 About Me
 
-I use these tools to ride the development waves:  
-- **⚙️ Languages & Frameworks:**  
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" style="width: 50px; height: auto;" /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" style="width: 50px; height: auto;" />
-</div>   
+Hi there! I'm **CoolBeachBall** — a self-taught web developer with a passion for:
 
-- **🔨 Favorite Tools:**  
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="zsh Logo" style="width: 50px; height: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" style="width: 50px; height: auto;" />
-</div>  
+- 🎨 Design & color theory  
+- 🧠 Intuitive, user-focused experiences  
+- 💡 Turning ideas into digital reality
 
-- **💻 Operating Systems:**
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS log" style="width: 50px; height: auto;" />
+Web development allows me to blend **creativity** and **problem-solving** to build beautiful, functional websites that users love to interact with.
+
+---
+
+## 🛠️ My Skills
+
+**Frontend Development** 
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" />
 </div>
+- <b>HTML</b>, <b>CSS</b> & <b>JavaScript</b> – for responsive, stylish, and interactive designs.
 
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100" /> 
+</div>
+- <b>React</b> – for fast and efficient development.
+
+## UI/UX Design 
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="100" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="100" />  
+</div>
+- <b>Sass</b> & <b>TailwindCSS</b> – for scalable, maintainable, and elegant styling.
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="100" />
+</div>
+- <b>Figma</b> – for designing wireframes, prototypes, and polished interfaces. 
+
+## Developer Tools  
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100" />
+</div>
+- <b>Git</b> & <b>GitHub</b> – for version control and collaboration.
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="100" />
+</div>
+- <b>Zsh</b> – for a streamlined terminal experience.
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100" />
+</div>
+- <b>Visual Studio Code</b> - My go-to code editor for writing and managing projects.
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="100" />
+</div>
+- <b>macOS</b> – my preferred development environment.
+
+> These tools aren’t just software — they’re extensions of my creativity.
 
 ---
 
-## 🌟 My Current Adventure  
+## 🎨 My Portfolio
 
-Here’s what I’m up to:  
-🏗 **Mastering JavaScript, React, Tailwind & TypeScript** – Building efficient and scalable apps.  
-🌗 **Theming Magic** – Making websites switch seamlessly between light and dark modes.  
-📝 **To-Do List App** – Simplifying life with a cool task management tool.  
+### [🎯 Color Flipper](#)
+> A fun app for experimenting with colors. Includes CoolBeachBall’s favorite palettes!
 
----
+### [🎨 CoolNeUI](#)
+> A CSS framework inspired by Bootstrap and Tailwind. Perfect for quick, responsive design.
 
-## 🏝 Why CoolBeachBall?  
-
-Because coding should feel like a day at the beach:  
-- **Bright Ideas** 🌞  
-- **Smooth Waves** 🌊  
-- **Endless Creativity** 🏖️  
-
-I believe websites should be bold, fun, and a joy to use. My goal? To make every project as vibrant as a beach ball on a sunny day.  
+### ...and more!
+Check out [all my projects](#) to see what else I’ve built!
 
 ---
 
-## 🌐 Hang Out With Me  
+## 💡 What Sets Me Apart
 
-🏄 **Portfolio:**
-- <a href="https://github.com/coolbeachball/CoolNeUI">CoolNeUI</a>: A simple and intuitive CSS framework that allows you to style websites fast. 
-- <a href="https://github.com/coolbeachball/CoolNeUI](https://github.com/coolbeachball/TODO-List-App">ToDo App</a>: a cool way to organize your tasks into small pieces. 
-- <a href="https://github.com/coolbeachball/The-Periodic-Table">Periodic Table</a>: one of the most fun way to learn a small information about each of the elements. 
+I focus on crafting web experiences that are:
+
+- 🔄 Intuitive  
+- 🧩 Engaging  
+- 🤩 Visually appealing  
+- ✅ Functional
+
+Each project is a new opportunity to **create, learn, and improve**.
 
 ---
 
-Let’s catch the next big wave together! 🌊✨
+## 🔮 What's Next?
 
+I’m always learning and growing.  
+**Next up:** diving deeper into **UI/UX design** and **full-stack development** to become a more versatile developer.
 
+---
 
-<!---
-coolbeachball/coolbeachball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💬 Final Thoughts
+
+I’m excited to contribute my passion and skills to amazing projects and teams.
+
+> Let’s build something awesome together.  
+
+---
+
+## 📬 Contact Me
+
+- [GitHub](https://github.com/CoolBeachBall)    
+- Feel free to reach out anytime!
+
+---
+
+© CoolBeachBall 2025  
+All rights reserved.
