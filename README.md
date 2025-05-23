@@ -28,8 +28,9 @@ Web development allows me to blend **creativity** and **problem-solving** to bui
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="100" /> 
 </div>
-- <b>React</b> – for fast and efficient development.
+- <b>React</b> + <b>Next.js</b> – for fast and efficient development.
 
 ## UI/UX Design 
 
